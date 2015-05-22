@@ -1,5 +1,7 @@
 #include <stdio.h>
 
+/* Experiment with \x with x being different letters */
+
 main()
 {
 	printf("\n--\n");
