@@ -6,7 +6,7 @@ main()
 {
 	int c;
 	
-	printf("Please enter some text to have seperated one word per line:\n");
+	printf("Please enter some text here to have seperated one word per line:\n");
 	
 	while ((c = getchar()) != EOF) {
 		if (c == ' ' || c == '\n' || c == '\t')
